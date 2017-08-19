@@ -1,18 +1,10 @@
 ﻿
 $('#planet_folder').click(function(){
+$('div#tut_photo_1').html("<img src='howtouse_styles/cursor_tut.png'>");
+$('div#tut_photo_2').html("<img src='howtouse_styles/info_tut.png'>");
+$('div#tut_photo_3').html("<img src='howtouse_styles/planetmotion_tut.png'>");
+$('div#tut_photo_4').html("<img src='howtouse_styles/showfuture_tut.png'>");
 
-$("#tut_photo_1").attr({
-src:'howtouse_styles/cursor_tut.png'
-});
-$("#tut_photo_2").attr({
-src:'howtouse_styles/info_tut.png'
-});
-$("#tut_photo_3").attr({
-src:'howtouse_styles/planetmotion_tut.png'
-});
-$("#tut_photo_4").attr({
-src:'howtouse_styles/showfuture_tut.png'
-});
 
 $("div#tut_text_1_heading").html("<h3>Планеты земной группы</h3>");
 $("div#tut_text_2_heading").html("<h3>Информация об объектах</h3>");
@@ -30,19 +22,12 @@ return false;
 
 $('#star_folder').click(function(){
 
-$("#tut_photo_1").attr({
-src:'howtouse_styles/constel_tut.png'
-});
+$('div#tut_photo_1').html("<img src='howtouse_styles/constel_tut.png'>");
+$('div#tut_photo_2').html("<img src='howtouse_styles/localsky_tut.png'>");
+$('div#tut_photo_3').html("<img src='howtouse_styles/scope_tut.png'>");
+$('div#tut_photo_4').html("<img src='howtouse_styles/expsearch_tut.png'>");
 
-$("#tut_photo_2").attr({
-src:'howtouse_styles/localsky_tut.png'
-});
-$("#tut_photo_3").attr({
-src:'howtouse_styles/scope_tut.png'
-});
-$("#tut_photo_4").attr({
-src:'howtouse_styles/expsearch_tut.png'
-});
+
 $("div#tut_text_1_heading").html("<h3>Поиск созвездий</h3>");
 $("div#tut_text_2_heading").html("<h3>Локальное небо</h3>");
 $("div#tut_text_3_heading").html("<h3>Лупа</h3>");

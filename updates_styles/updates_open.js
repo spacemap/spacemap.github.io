@@ -1,4 +1,4 @@
-
+п»ї
 $('#patch_624').click(function(){
 $('div#content_436').fadeOut(0);
 $('div#content_437').fadeOut(0);
@@ -8,7 +8,7 @@ $('div#content_443').fadeOut(0);
 $('div#content_500').fadeOut(0);
 $('div#content_510').fadeOut(0);
 $('div#content_620').fadeOut(0);
-$('div#content_624').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Усовершентсвована работа вывода горизонтальных координат<li>Увеличена база данных<li>Добавлен расширенный поиск</ul></div></td></table>")
+$('div#content_624').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>РЈСЃРѕРІРµСЂС€РµРЅС‚СЃРІРѕРІР°РЅР° СЂР°Р±РѕС‚Р° РІС‹РІРѕРґР° РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅС‹С… РєРѕРѕСЂРґРёРЅР°С‚<li>РЈРІРµР»РёС‡РµРЅР° Р±Р°Р·Р° РґР°РЅРЅС‹С…<li>Р”РѕР±Р°РІР»РµРЅ СЂР°СЃС€РёСЂРµРЅРЅС‹Р№ РїРѕРёСЃРє</ul></div></td></table>")
 $('div#content_624').fadeIn(0);
 });
 
@@ -21,7 +21,7 @@ $('div#content_443').fadeOut(0);
 $('div#content_500').fadeOut(0);
 $('div#content_510').fadeOut(0);
 $('div#content_624').fadeOut(0);
-$('div#content_620').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Добавлена Анимация в раздел 'Солнечная система'<li>Введены горизонтальные координаты<ul></div></td></table>")
+$('div#content_620').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Р”РѕР±Р°РІР»РµРЅР° РђРЅРёРјР°С†РёСЏ РІ СЂР°Р·РґРµР» 'РЎРѕР»РЅРµС‡РЅР°СЏ СЃРёСЃС‚РµРјР°'<li>Р’РІРµРґРµРЅС‹ РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅС‹Рµ РєРѕРѕСЂРґРёРЅР°С‚С‹<ul></div></td></table>")
 $('div#content_620').fadeIn(0);
 });
 
@@ -34,7 +34,7 @@ $('div#content_443').fadeOut(0);
 $('div#content_500').fadeOut(0);
 $('div#content_620').fadeOut(0);
 $('div#content_624').fadeOut(0);
-$('div#content_510').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Теперь орбиты планет почти пропорциональны настоящим<li>Решена проблема с очень маленькими орбитами/планетами земной группы<ul></div></td></table>")
+$('div#content_510').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>РўРµРїРµСЂСЊ РѕСЂР±РёС‚С‹ РїР»Р°РЅРµС‚ РїРѕС‡С‚Рё РїСЂРѕРїРѕСЂС†РёРѕРЅР°Р»СЊРЅС‹ РЅР°СЃС‚РѕСЏС‰РёРј<li>Р РµС€РµРЅР° РїСЂРѕР±Р»РµРјР° СЃ РѕС‡РµРЅСЊ РјР°Р»РµРЅСЊРєРёРјРё РѕСЂР±РёС‚Р°РјРё/РїР»Р°РЅРµС‚Р°РјРё Р·РµРјРЅРѕР№ РіСЂСѓРїРїС‹<ul></div></td></table>")
 $('div#content_510').fadeIn(0);
 });
 
@@ -47,7 +47,7 @@ $('div#content_443').fadeOut(0);
 $('div#content_510').fadeOut(0);
 $('div#content_620').fadeOut(0);
 $('div#content_624').fadeOut(0);
-$('div#content_500').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Лупа исправлена еще более целиком<li>Редизайн раздела звезды<li>Добавлен новый раздел - Солнечная система<li>Переработан первичный интерфейс программы<li>Все элементы memo переведены в режим ReadOnly<li>База данных теперь общая<li>Исправлен баг с ошибочнвм поиском созвездий<li>Создан новый алгоритм работы кнопки 'создатели'<li>Локальное небо теперь работает с текущей датой<li>Мэйн кнопка тоже работает с датой<ul></div></td></table>")
+$('div#content_500').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Р›СѓРїР° РёСЃРїСЂР°РІР»РµРЅР° РµС‰Рµ Р±РѕР»РµРµ С†РµР»РёРєРѕРј<li>Р РµРґРёР·Р°Р№РЅ СЂР°Р·РґРµР»Р° Р·РІРµР·РґС‹<li>Р”РѕР±Р°РІР»РµРЅ РЅРѕРІС‹Р№ СЂР°Р·РґРµР» - РЎРѕР»РЅРµС‡РЅР°СЏ СЃРёСЃС‚РµРјР°<li>РџРµСЂРµСЂР°Р±РѕС‚Р°РЅ РїРµСЂРІРёС‡РЅС‹Р№ РёРЅС‚РµСЂС„РµР№СЃ РїСЂРѕРіСЂР°РјРјС‹<li>Р’СЃРµ СЌР»РµРјРµРЅС‚С‹ memo РїРµСЂРµРІРµРґРµРЅС‹ РІ СЂРµР¶РёРј ReadOnly<li>Р‘Р°Р·Р° РґР°РЅРЅС‹С… С‚РµРїРµСЂСЊ РѕР±С‰Р°СЏ<li>РСЃРїСЂР°РІР»РµРЅ Р±Р°Рі СЃ РѕС€РёР±РѕС‡РЅРІРј РїРѕРёСЃРєРѕРј СЃРѕР·РІРµР·РґРёР№<li>РЎРѕР·РґР°РЅ РЅРѕРІС‹Р№ Р°Р»РіРѕСЂРёС‚Рј СЂР°Р±РѕС‚С‹ РєРЅРѕРїРєРё 'СЃРѕР·РґР°С‚РµР»Рё'<li>Р›РѕРєР°Р»СЊРЅРѕРµ РЅРµР±Рѕ С‚РµРїРµСЂСЊ СЂР°Р±РѕС‚Р°РµС‚ СЃ С‚РµРєСѓС‰РµР№ РґР°С‚РѕР№<li>РњСЌР№РЅ РєРЅРѕРїРєР° С‚РѕР¶Рµ СЂР°Р±РѕС‚Р°РµС‚ СЃ РґР°С‚РѕР№<ul></div></td></table>")
 $('div#content_500').fadeIn(0);
 });
 
@@ -60,7 +60,7 @@ $('div#content_500').fadeOut(0);
 $('div#content_510').fadeOut(0);
 $('div#content_620').fadeOut(0);
 $('div#content_624').fadeOut(0);
-$('div#content_443').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Лупа исправлена целиком<ul></div></td></table>")
+$('div#content_443').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Р›СѓРїР° РёСЃРїСЂР°РІР»РµРЅР° С†РµР»РёРєРѕРј<ul></div></td></table>")
 $('div#content_443').fadeIn(0);
 });
 
@@ -73,7 +73,7 @@ $('div#content_500').fadeOut(0);
 $('div#content_510').fadeOut(0);
 $('div#content_620').fadeOut(0);
 $('div#content_624').fadeOut(0);
-$('div#content_440').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Добавлена нормальная работа с созвездиями<li>Добавлен более крутой вывод при поиске звезды<ul></div></td></table>")
+$('div#content_440').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Р”РѕР±Р°РІР»РµРЅР° РЅРѕСЂРјР°Р»СЊРЅР°СЏ СЂР°Р±РѕС‚Р° СЃ СЃРѕР·РІРµР·РґРёСЏРјРё<li>Р”РѕР±Р°РІР»РµРЅ Р±РѕР»РµРµ РєСЂСѓС‚РѕР№ РІС‹РІРѕРґ РїСЂРё РїРѕРёСЃРєРµ Р·РІРµР·РґС‹<ul></div></td></table>")
 $('div#content_440').fadeIn(0);
 });
 
@@ -86,7 +86,7 @@ $('div#content_500').fadeOut(0);
 $('div#content_510').fadeOut(0);
 $('div#content_620').fadeOut(0);
 $('div#content_624').fadeOut(0);
-$('div#content_439').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Пофикшены формы выводимых на экран фигур<ul></div></td></table>")
+$('div#content_439').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>РџРѕС„РёРєС€РµРЅС‹ С„РѕСЂРјС‹ РІС‹РІРѕРґРёРјС‹С… РЅР° СЌРєСЂР°РЅ С„РёРіСѓСЂ<ul></div></td></table>")
 $('div#content_439').fadeIn(100);
 });
 
@@ -99,7 +99,7 @@ $('div#content_500').fadeOut(0);
 $('div#content_510').fadeOut(0);
 $('div#content_620').fadeOut(0);
 $('div#content_624').fadeOut(0);
-$('div#content_437').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Линия лупы изменена на пунктир<li>Прямоугольник увеличения больше не красит стороны<li>Исправлен баг, при котором не исчезала кнопка 'вернуться к карте'<ul></div></td></table>")
+$('div#content_437').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Р›РёРЅРёСЏ Р»СѓРїС‹ РёР·РјРµРЅРµРЅР° РЅР° РїСѓРЅРєС‚РёСЂ<li>РџСЂСЏРјРѕСѓРіРѕР»СЊРЅРёРє СѓРІРµР»РёС‡РµРЅРёСЏ Р±РѕР»СЊС€Рµ РЅРµ РєСЂР°СЃРёС‚ СЃС‚РѕСЂРѕРЅС‹<li>РСЃРїСЂР°РІР»РµРЅ Р±Р°Рі, РїСЂРё РєРѕС‚РѕСЂРѕРј РЅРµ РёСЃС‡РµР·Р°Р»Р° РєРЅРѕРїРєР° 'РІРµСЂРЅСѓС‚СЊСЃСЏ Рє РєР°СЂС‚Рµ'<ul></div></td></table>")
 $('div#content_437').fadeIn(100);
 });
 
@@ -112,6 +112,6 @@ $('div#content_500').fadeOut(0);
 $('div#content_510').fadeOut(0);
 $('div#content_620').fadeOut(0);
 $('div#content_624').fadeOut(0);
-$('div#content_436').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Исправлен баг с отображением размера при поиске<li>Исправлен баг с none'ом<li>Добавлены две строки про вопросы в эклиптику/найти созвездие/как работает<li>Исправлен баг с функцией левенштейна<li>Исправлен баг с отображением имени созвездия при опечатке<ul></div></td></table>")
+$('div#content_436').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>РСЃРїСЂР°РІР»РµРЅ Р±Р°Рі СЃ РѕС‚РѕР±СЂР°Р¶РµРЅРёРµРј СЂР°Р·РјРµСЂР° РїСЂРё РїРѕРёСЃРєРµ<li>РСЃРїСЂР°РІР»РµРЅ Р±Р°Рі СЃ none'РѕРј<li>Р”РѕР±Р°РІР»РµРЅС‹ РґРІРµ СЃС‚СЂРѕРєРё РїСЂРѕ РІРѕРїСЂРѕСЃС‹ РІ СЌРєР»РёРїС‚РёРєСѓ/РЅР°Р№С‚Рё СЃРѕР·РІРµР·РґРёРµ/РєР°Рє СЂР°Р±РѕС‚Р°РµС‚<li>РСЃРїСЂР°РІР»РµРЅ Р±Р°Рі СЃ С„СѓРЅРєС†РёРµР№ Р»РµРІРµРЅС€С‚РµР№РЅР°<li>РСЃРїСЂР°РІР»РµРЅ Р±Р°Рі СЃ РѕС‚РѕР±СЂР°Р¶РµРЅРёРµРј РёРјРµРЅРё СЃРѕР·РІРµР·РґРёСЏ РїСЂРё РѕРїРµС‡Р°С‚РєРµ<ul></div></td></table>")
 $('div#content_436').fadeIn(0);
 });

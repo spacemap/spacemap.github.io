@@ -1,0 +1,13 @@
+.contacts_table_td:hover{
+background-color:#00FFFF;
+}
+#contacts_table{
+width:80%; 
+height:50%;
+margin-top:10px;
+margin-bottom:10px;
+}
+.contacts_table_td{
+width:25%;
+background-color:#00CED1;
+}

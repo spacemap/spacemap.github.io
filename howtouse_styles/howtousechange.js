@@ -1,9 +1,9 @@
 ﻿
 $('#planet_folder').click(function(){
-$('div#tut_photo_1').html("<img src='howtouse_styles/cursor_tut.png'>");
-$('div#tut_photo_2').html("<img src='howtouse_styles/info_tut.png'>");
-$('div#tut_photo_3').html("<img src='howtouse_styles/planetmotion_tut.png'>");
-$('div#tut_photo_4').html("<img src='howtouse_styles/showfuture_tut.png'>");
+$('div#tut_photo_1').html("<img id='starmap_1' src='howtouse_styles/cursor_tut.png'>");
+$('div#tut_photo_2').html("<img id='starmap_1' src='howtouse_styles/info_tut.png'>");
+$('div#tut_photo_3').html("<img id='starmap_1' src='howtouse_styles/planetmotion_tut.png'>");
+$('div#tut_photo_4').html("<img id='starmap_1' src='howtouse_styles/showfuture_tut.png'>");
 
 
 $("div#tut_text_1_heading").html("<h3>Планеты земной группы</h3>");
@@ -22,10 +22,10 @@ return false;
 
 $('#star_folder').click(function(){
 
-$('div#tut_photo_1').html("<img src='howtouse_styles/constel_tut.png'>");
-$('div#tut_photo_2').html("<img src='howtouse_styles/localsky_tut.png'>");
-$('div#tut_photo_3').html("<img src='howtouse_styles/scope_tut.png'>");
-$('div#tut_photo_4').html("<img src='howtouse_styles/expsearch_tut.png'>");
+$('div#tut_photo_1').html("<img id='starmap_1' src='howtouse_styles/constel_tut.png'>");
+$('div#tut_photo_2').html("<img id='starmap_1' src='howtouse_styles/localsky_tut.png'>");
+$('div#tut_photo_3').html("<img id='starmap_1' src='howtouse_styles/scope_tut.png'>");
+$('div#tut_photo_4').html("<img id='starmap_1' src='howtouse_styles/expsearch_tut.png'>");
 
 
 $("div#tut_text_1_heading").html("<h3>Поиск созвездий</h3>");

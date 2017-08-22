@@ -5,7 +5,7 @@ background-color:#FFFFE0;
 
 }
 .list_item{
-width:30%;
+width:40%;
 height:7%;
 background-color:#FFE4B5;
 border-right-width:0px;
@@ -29,7 +29,7 @@ height:10px;
 }
 .patch_content{
 background-color:#1E90FF;
-width:25%;
+width:35%;
 }
 .patch_content_td{
 width:100%;

@@ -1,1 +1,1 @@
-$("div#date_of_last_upd").html("Last update: 22.08.2017");
+$("div#date_of_last_upd").html("Last update: 25.08.2017");

@@ -2,12 +2,13 @@
 background-color:#00FFFF;
 }
 #contacts_table{
-width:80%; 
+width:92%; 
 height:50%;
 margin-top:10px;
 margin-bottom:10px;
 }
 .contacts_table_td{
 width:25%;
+margin-right:10px;
 background-color:#00CED1;
 }

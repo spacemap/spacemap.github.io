@@ -100,11 +100,12 @@ height:7%;
 
 .img_select{
 width:20%;
+border-color:#DCDCDC;
 border-left-width:0px;
 border-right-width:0px;
 border-top-width:0px;
 border-bottom-width:2px; 
-border-bottom-color:#DCDCDC;
+
 }
 
 #td_text_before_img{

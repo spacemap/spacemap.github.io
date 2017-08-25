@@ -7,7 +7,7 @@ border-bottom-width:2px;
 border-bottom-color:#1E90FF;
 }
 #last_option:hover{
-	background-color:rgb(0,191,255);
+background-color:rgb(0,191,255);
 }
 
 #main_table_1{
@@ -22,24 +22,24 @@ height:16%;
 width:100%;
 }
 .second_line_td{
-	border-color:white;
-	border-bottom-width:0px;
+border-color:white;
+border-bottom-width:0px;
 border-left-width:0px;
 border-right-width:1px;
 border-top-width:0px;
 	
 }
 #last_option{
-		border-color:white;
-	border-bottom-width:0px;
+border-color:white;
+border-bottom-width:0px;
 border-left-width:0px;
 border-right-width:0px;
 border-top-width:0px;
 	
 }
 #main_table_2{
-	width:100%;
-	border-bottom-width:0px;
+width:100%;
+border-bottom-width:0px;
 border-left-width:0px;
 border-right-width:0px;
 border-top-width:0px;

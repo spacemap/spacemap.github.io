@@ -1,11 +1,14 @@
 .letter_head{
 text-align:center;
+margin-bottom:30px;
 font-family:Papyrus;
-font-size:50px;
+font-size:55px;
 padding-bottom:20px;
+font-weight:900;
 }
 .letter_other{
-color:#708090;
+
+color:white;
 text-align:center;
 font-family:Verdana;
 font-size:15px;

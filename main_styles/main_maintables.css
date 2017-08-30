@@ -1,11 +1,11 @@
 .second_line_td:hover{
-background-color:rgb(0,191,255);
+background-color:#6495ED;
 
 }
 
 .img_select:hover{
 border-bottom-width:2px;
-border-bottom-color:#1E90FF;
+border-bottom-color:#6495ED;
 }
 
 
@@ -44,7 +44,7 @@ border-left-width:0px;
 border-right-width:0px;
 border-top-width:0px;
 height:6%;
-background-color:#1E90FF;
+background-color:#4169E1;
 border-top-width:0px;
 }
 

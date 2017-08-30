@@ -1,5 +1,5 @@
 .contacts_table_td:hover{
-background-color:#00FFFF;
+background-color:#6495ED;
 }
 #contacts_table{
 width:92%; 
@@ -10,5 +10,5 @@ margin-bottom:10px;
 .contacts_table_td{
 width:25%;
 margin-right:10px;
-background-color:#00CED1;
+background-color:#4169E1;
 }

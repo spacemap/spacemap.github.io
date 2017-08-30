@@ -1,9 +1,11 @@
 #intro_text{
-padding-left:30%;
-padding-right:30%; 
 text-align:center;
 line-height:1.6;
 font-family:Verdana;
+padding-left:22%;
+padding-right:22%;
+padding-bottom:2%;
+padding-top:1%;
 }
 #intro_text_heading{
 color:#4169E1;

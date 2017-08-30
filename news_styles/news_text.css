@@ -1,13 +1,27 @@
-.data_text{
-text-align:center;
-font-family:Verdana;
-color:#000000;
-font-size:15px;
+ .news_type{
+
+	 padding-bottom:5px;
+	color:#696969; 
+ }
+.news_heading{ 
+text-align:left;
+font-size:40px;
+font-weight:bolder;
+padding-bottom:5px;
+
 }
 .news_text{
-text-align:center;
+	
+	padding-bottom:5px;
+text-align:left;
 font-family:Verdana;
 color:#000000;
-font-size:15px;
+font-size:20px;
 
+}
+.news_data{
+	margin-top:5px;
+	text-align: bottom;
+	padding-top:0px;
+	color:#696969; 
 }

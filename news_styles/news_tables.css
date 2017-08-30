@@ -1,7 +1,11 @@
 #news_table{
 width:60%;
+border-right-width:0px;
+border-top-width:0px;
+border-left-width:0px;
+border-color:#DCDCDC;
+border-bottom-width:1px;
 
-background-color:#E0FFFF;
 margin-top:10px;
 margin-bottom:10px;
 }
@@ -12,11 +16,21 @@ height:50px;
 border-right-width:0px;
 border-top-width:0px;
 border-left-width:0px;
-border-bottom-width:1px;
+border-bottom-width:0px;
 }
 .news_td_content{
+	vertical-align: middle;
 border-right-width:0px;
 border-top-width:0px;
 border-left-width:0px;
-border-bottom-width:1px;
+border-bottom-width:0px;
+}
+.news_td_photo{
+
+	vertical-align: top;
+	width:50%;
+	border-right-width:0px;
+border-top-width:0px;
+border-left-width:0px;
+border-bottom-width:0px;
 }

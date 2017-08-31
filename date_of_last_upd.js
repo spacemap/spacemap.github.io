@@ -1,1 +1,1 @@
-$("div#date_of_last_upd").html("Last update: 30.08.2017")
+$("div#date_of_last_upd").html("Last update: 31.08.2017")

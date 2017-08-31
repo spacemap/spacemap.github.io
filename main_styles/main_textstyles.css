@@ -1,7 +1,13 @@
 a:link{
 text-decoration:none;
 }
-
+li{
+	list-style: none;
+	text-decoration:none;
+}
+ul{
+text-decoration:none;	
+}
 .option{
 text-align:center;
 color:#FFFFFF;

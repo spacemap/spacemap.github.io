@@ -54,7 +54,13 @@ height:30%;
 margin-top:10px;
 background-color:#DCDCDC;	
 }
-
+#bot_text_language_td{
+	width:11%;
+	vertical-align:top;
+}
+#bot_text_lastupd_td{
+	vertical-align:top;
+}
 #main_table_3_photo{
 border-left-width:0px;
 border-right-width:0px;

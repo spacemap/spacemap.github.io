@@ -1,12 +1,34 @@
 ﻿
 var openWindow=0;
 
+$('#patch_714').click(function(){
+
+	if (openWindow==714){
+		openWindow=0;
+	$('div#content_714').fadeOut(0);
+	} else {
+$('div#content_436').fadeOut(0);
+$('div#content_437').fadeOut(0);
+$('div#content_439').fadeOut(0);
+$('div#content_440').fadeOut(0);
+$('div#content_443').fadeOut(0);
+$('div#content_500').fadeOut(0);
+$('div#content_510').fadeOut(0);
+$('div#content_620').fadeOut(0);
+$('div#content_714').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Добавлена поддрежка некоторых разрешений<li>Усовершенствованна работа анимации планет<li>Более точно нарисованна эклиптика<li>Сделанна модель движения солнца по эклиптике<li>Локальное небо работает для нескольких широт</ul></div></td></table>")
+$('div#content_624').fadeOut(0);
+$('div#content_714').fadeIn(0);
+	openWindow=714;
+	}
+});
+
 $('#patch_624').click(function(){
 
 	if (openWindow==624){
 		openWindow=0;
 	$('div#content_624').fadeOut(0);
 	} else {
+$('div#content_714').fadeOut(0);
 $('div#content_436').fadeOut(0);
 $('div#content_437').fadeOut(0);
 $('div#content_439').fadeOut(0);
@@ -28,6 +50,7 @@ $('#patch_620').click(function(){
 		openWindow=0;
 	$('div#content_620').fadeOut(0);
 	} else {
+$('div#content_714').fadeOut(0);
 $('div#content_436').fadeOut(0);
 $('div#content_437').fadeOut(0);
 $('div#content_439').fadeOut(0);
@@ -49,6 +72,7 @@ $('#patch_510').click(function(){
 		openWindow=0;
 	$('div#content_510').fadeOut(0);
 	} else {
+$('div#content_714').fadeOut(0);
 $('div#content_436').fadeOut(0);
 $('div#content_437').fadeOut(0);
 $('div#content_439').fadeOut(0);
@@ -70,6 +94,7 @@ $('#patch_500').click(function(){
 		openWindow=0;
 	$('div#content_500').fadeOut(0);
 	} else {
+$('div#content_714').fadeOut(0);
 $('div#content_436').fadeOut(0);
 $('div#content_437').fadeOut(0);
 $('div#content_439').fadeOut(0);
@@ -91,6 +116,7 @@ $('#patch_443').click(function(){
 		openWindow=0;
 	$('div#content_443').fadeOut(0);
 	} else {
+$('div#content_714').fadeOut(0);
 $('div#content_436').fadeOut(0);
 $('div#content_437').fadeOut(0);
 $('div#content_439').fadeOut(0);
@@ -112,6 +138,7 @@ $('#patch_440').click(function(){
 		openWindow=0;
 	$('div#content_440').fadeOut(0);
 	} else {
+$('div#content_714').fadeOut(0);
 $('div#content_436').fadeOut(0);
 $('div#content_437').fadeOut(0);
 $('div#content_439').fadeOut(0);
@@ -133,6 +160,7 @@ $('#patch_439').click(function(){
 		openWindow=0;
 	$('div#content_439').fadeOut(0);
 	} else {
+$('div#content_714').fadeOut(0);
 $('div#content_436').fadeOut(0);
 $('div#content_437').fadeOut(0);
 $('div#content_440').fadeOut(0);
@@ -153,6 +181,7 @@ $('#patch_437').click(function(){
 		openWindow=0;
 	$('div#content_437').fadeOut(0);
 	} else {
+$('div#content_714').fadeOut(0);
 $('div#content_436').fadeOut(0);
 $('div#content_439').fadeOut(0);
 $('div#content_440').fadeOut(0);
@@ -174,6 +203,7 @@ $('#patch_436').click(function(){
 		openWindow=0;
 	$('div#content_436').fadeOut(0);
 	} else {
+$('div#content_714').fadeOut(0);
 $('div#content_437').fadeOut(0);
 $('div#content_439').fadeOut(0);
 $('div#content_440').fadeOut(0);

@@ -15,7 +15,7 @@ $('div#content_443').fadeOut(0);
 $('div#content_500').fadeOut(0);
 $('div#content_510').fadeOut(0);
 $('div#content_620').fadeOut(0);
-$('div#content_714').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Добавлена поддрежка некоторых разрешений<li>Усовершенствованна работа анимации планет<li>Более точно нарисованна эклиптика<li>Сделанна модель движения солнца по эклиптике<li>Локальное небо работает для нескольких широт</ul></div></td></table>")
+$('div#content_714').html("<table class='patch_content'><td class='patch_content_td'><div class='patch_content_text'><ul><li>Добавлена поддержка некоторых разрешений<li>Усовершенствована работа анимации планет<li>Более точно нарисована эклиптика<li>Сделанна модель движения солнца по эклиптике<li>Локальное небо работает для нескольких широт</ul></div></td></table>")
 $('div#content_624').fadeOut(0);
 $('div#content_714').fadeIn(0);
 	openWindow=714;
